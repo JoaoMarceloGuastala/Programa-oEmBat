@@ -1,0 +1,3 @@
+@echo off
+echo Ola, esse é meu primeiro Scrpt em BAT.
+pause
